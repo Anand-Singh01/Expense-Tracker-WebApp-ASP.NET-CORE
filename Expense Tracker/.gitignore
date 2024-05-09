@@ -1,0 +1,80 @@
+# Visual Studio temporary files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.resharper
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ll]ib/
+[Nn]ode_modules/
+
+# NuGet
+*.nuget/
+*.nupkg
+*.dll
+*.exe
+
+# Visual Studio files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.sln.ide-shelve
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# End of Visual Studio Code .gitignore file
