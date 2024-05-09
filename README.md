@@ -1,4 +1,5 @@
 # Expense Tracker App
+![1](https://github.com/Anand-singh97/Expense-Tracker-WebApp-ASP.NET-CORE/assets/132922327/85424a79-f0ce-47ec-916e-36a619f8b8ed)
 
 ## Overview
 This is an Expense Tracker web application built with ASP .NET Core MVC, designed for enterprise-level usage. The app utilizes Syncfusion component library extensively for form controls, grids, charts, navigation controls, and more. With this application, users can efficiently manage their financial transactions by performing full CRUD operations.
