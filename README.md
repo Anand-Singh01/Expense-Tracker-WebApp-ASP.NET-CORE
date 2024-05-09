@@ -17,8 +17,9 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory.
 3. Open the solution in Visual Studio.
 4. Restore NuGet packages and build the solution.
-5. Configure the database connection in `appsettings.json`.
-6. Run the application.
+5. Update sync fusion free license in Program.cs.
+6. Configure the database connection in `appsettings.json`.
+7. Run the application.
 
 ## Technologies Used
 - ASP .NET Core MVC
